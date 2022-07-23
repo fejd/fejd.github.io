@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://jesterlabs.se/</loc>
+    <lastmod>2020-11-22T17:38:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jesterlabs.se/posts/my-first-post/</loc>
+    <lastmod>2020-11-22T17:38:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jesterlabs.se/posts/</loc>
+    <lastmod>2020-11-22T17:38:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jesterlabs.se/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jesterlabs.se/tags/</loc>
+  </url>
+  
+</urlset>
