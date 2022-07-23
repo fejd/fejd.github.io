@@ -2,19 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jesterlabs</title>
-    <link>http://jesterlabs.se/</link>
+    <link>https://fejd.github.io/</link>
     <description>Recent content on Jesterlabs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2020 17:38:15 +0100</lastBuildDate><atom:link href="http://jesterlabs.se/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>http://jesterlabs.se/posts/my-first-post/</link>
-      <pubDate>Sun, 22 Nov 2020 17:38:15 +0100</pubDate>
-      
-      <guid>http://jesterlabs.se/posts/my-first-post/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://fejd.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
