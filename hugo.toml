@@ -1,4 +1,12 @@
 baseURL = 'https://jesterlabs.se/'
 languageCode = 'en-us'
 title = 'Jester Labs'
-theme = 'ananke'
+theme = 'hugo-coder'
+
+[params]
+author = "Fredrik Henriksson"
+description = "Jester Labs"
+info = ["Software Developer"]
+colorScheme = "dark"
+hideColorSchemeToggle = true
+gravatar = "fredrik.henricsson@gmail.com"
