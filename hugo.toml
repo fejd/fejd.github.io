@@ -1,0 +1,4 @@
+baseURL = 'https://jesterlabs.se/'
+languageCode = 'en-us'
+title = 'Jester Labs'
+theme = 'ananke'
